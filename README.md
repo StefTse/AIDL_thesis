@@ -1,3 +1,3 @@
-Dataset processsing and transformers for AIDL thesis.
-The dataset inlude X and Reddit posts.
-The project concerns sentiment analysis/emotion extraction of short text.
+Dataset processsing and models for AIDL thesis concerning  sentiment analysis/emotion extraction of short text.
+The dataset inludes X and Reddit posts.
+
